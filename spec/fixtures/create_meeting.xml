@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service"
+              xmlns:com="http://www.webex.com/schemas/2002/06/common"
+              xmlns:meet="http://www.webex.com/schemas/2002/06/service/meeting"
+              xmlns:att="http://www.webex.com/schemas/2002/06/service/attendee">
+    <serv:header>
+        <serv:response>
+            <serv:result>SUCCESS</serv:result>
+            <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+        </serv:response>
+    </serv:header>
+    <serv:body>
+        <serv:bodyContent xsi:type="meet:createMeetingResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <meet:meetingkey>807833538</meet:meetingkey>
+            <meet:iCalendarURL>
+                <serv:host>https://instructure.webex.com/instructure/j.php?ED=237482992&amp;UID=496574192&amp;ICS=MIFH&amp;ST=1</serv:host>
+                <serv:attendee>https://instructure.webex.com/instructure/j.php?ED=237482992&amp;UID=496574192&amp;ICS=MIFA&amp;ST=1</serv:attendee>
+            </meet:iCalendarURL>
+            <meet:guestToken>53fb4f65b2e53852813cc8c6c976e49a</meet:guestToken>
+        </serv:bodyContent>
+    </serv:body>
+</serv:message>

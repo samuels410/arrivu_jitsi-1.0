@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service"
+              xmlns:com="http://www.webex.com/schemas/2002/06/common"
+              xmlns:meet="http://www.webex.com/schemas/2002/06/service/meeting"
+              xmlns:att="http://www.webex.com/schemas/2002/06/service/attendee">
+    <serv:header>
+        <serv:response>
+            <serv:result>SUCCESS</serv:result>
+            <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+        </serv:response>
+    </serv:header>
+    <serv:body>
+        <serv:bodyContent xsi:type="meet:gethosturlMeetingResponse"
+                          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <meet:hostMeetingURL>https://instructure.webex.com/instructure/p.php?AT=LI&amp;WID=oxana&amp;TK=73408e679d3219e2e28c8dd602e28f22e0499fc872cf35c919e3e9265e63c639&amp;MU=https%3A%2F%2Finstructure.webex.com%2Finstructure%2Fm.php%3FAT%3DHM%26MK%3D807833538%26Rnd%3D0.749232360055296</meet:hostMeetingURL>
+        </serv:bodyContent>
+    </serv:body>
+</serv:message>

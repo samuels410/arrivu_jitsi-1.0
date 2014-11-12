@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service" xmlns:com="http://www.webex.com/schemas/2002/06/common" xmlns:ns1="http://www.webex.com/schemas/2002/06/service/site" xmlns:event="http://www.webex.com/schemas/2002/06/service/event">
+    <serv:header>
+        <serv:response>
+            <serv:result>SUCCESS</serv:result>
+            <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+        </serv:response>
+    </serv:header>
+    <serv:body>
+        <serv:bodyContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ns1:lstTimeZoneResponse">
+            <ns1:timeZone>
+                <ns1:timeZoneID>4</ns1:timeZoneID>
+                <ns1:gmtOffset>-480</ns1:gmtOffset>
+                <ns1:description>GMT-08:00, Pacific (San Francisco)</ns1:description>
+                <ns1:shortName>San Francisco</ns1:shortName>
+                <ns1:hideTimeZoneName>false</ns1:hideTimeZoneName>
+                <ns1:fallInDST>false</ns1:fallInDST>
+                <ns1:standardLabel>Standard</ns1:standardLabel>
+                <ns1:daylightLabel>Daylight</ns1:daylightLabel>
+            </ns1:timeZone>
+        </serv:bodyContent>
+    </serv:body>
+</serv:message>

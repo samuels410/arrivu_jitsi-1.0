@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service"
+              xmlns:com="http://www.webex.com/schemas/2002/06/common"
+              xmlns:meet="http://www.webex.com/schemas/2002/06/service/meeting"
+              xmlns:att="http://www.webex.com/schemas/2002/06/service/attendee">
+    <serv:header>
+        <serv:response>
+            <serv:result>SUCCESS</serv:result>
+            <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+        </serv:response>
+    </serv:header>
+    <serv:body>
+        <serv:bodyContent xsi:type="meet:lstsummaryMeetingResponse"
+                          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <meet:meeting>
+                <meet:meetingKey>805510316</meet:meetingKey>
+                <meet:confName>KT Discussion: Liferay Custom Feature</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>05/08/2013 11:00:00</meet:startDate>
+                <meet:duration>120</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>803069111</meet:meetingKey>
+                <meet:confName>Custom Community Recognition and Communication Portlets</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>4</meet:timeZoneID>
+                <meet:timeZone>GMT-07:00, Pacific (San Francisco)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>06/24/2013 01:00:00</meet:startDate>
+                <meet:duration>60</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>800345685</meet:meetingKey>
+                <meet:confName>Daily Stand-Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/02/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>805758645</meet:meetingKey>
+                <meet:confName>Daily Stand -Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/09/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>806204177</meet:meetingKey>
+                <meet:confName>Daily Stand-up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/10/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>806882731</meet:meetingKey>
+                <meet:confName>Daily Stand-up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/10/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>800982917</meet:meetingKey>
+                <meet:confName>Daily Stand -Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/11/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>807385192</meet:meetingKey>
+                <meet:confName>Daily Stand - Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/12/2013 04:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>809835377</meet:meetingKey>
+                <meet:confName>Check Point ( Community project)</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/15/2013 14:00:00</meet:startDate>
+                <meet:duration>30</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>800702897</meet:meetingKey>
+                <meet:confName>Daily Stand-Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/15/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>805868396</meet:meetingKey>
+                <meet:confName>Daily Stand - Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/16/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>806275562</meet:meetingKey>
+                <meet:confName>Daily Stand-Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/17/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>808348445</meet:meetingKey>
+                <meet:confName>Daily Stand-Up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>07/19/2013 16:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>805846241</meet:meetingKey>
+                <meet:confName>CAT5-Lab Demo</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>08/17/2013 14:00:00</meet:startDate>
+                <meet:duration>60</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>804265191</meet:meetingKey>
+                <meet:confName>NetSpace Discussions</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>4</meet:timeZoneID>
+                <meet:timeZone>GMT-07:00, Pacific (San Francisco)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>08/26/2013 08:33:20</meet:startDate>
+                <meet:duration>60</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>807323253</meet:meetingKey>
+                <meet:confName>KT Discussion : Community Code Walk Thru</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>09/06/2013 13:00:00</meet:startDate>
+                <meet:duration>60</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>804799194</meet:meetingKey>
+                <meet:confName>Community Project Weekly Status Call</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>4</meet:timeZoneID>
+                <meet:timeZone>GMT-07:00, Pacific (San Francisco)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>09/20/2013 15:00:00</meet:startDate>
+                <meet:duration>60</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>806518364</meet:meetingKey>
+                <meet:confName>PHCC SSO Tool Demo</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>09/20/2013 16:00:00</meet:startDate>
+                <meet:duration>30</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>808175662</meet:meetingKey>
+                <meet:confName>Video Frame Editor Tool Q&amp;A</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>10/02/2013 15:00:00</meet:startDate>
+                <meet:duration>30</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>809457009</meet:meetingKey>
+                <meet:confName>ProctorU-Canvas Project Sync-up</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>10/11/2013 15:00:00</meet:startDate>
+                <meet:duration>15</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>809689307</meet:meetingKey>
+                <meet:confName>Canvas- WebEx Integration Status Call</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>10/16/2013 14:00:00</meet:startDate>
+                <meet:duration>30</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:meeting>
+                <meet:meetingKey>804136355</meet:meetingKey>
+                <meet:confName>Review updated student UX flow chart - GLU</meet:confName>
+                <meet:meetingType>564</meet:meetingType>
+                <meet:hostWebExID>oxana</meet:hostWebExID>
+                <meet:otherHostWebExID>oxana</meet:otherHostWebExID>
+                <meet:timeZoneID>6</meet:timeZoneID>
+                <meet:timeZone>GMT-06:00, Mountain (Denver)</meet:timeZone>
+                <meet:status>NOT_INPROGRESS</meet:status>
+                <meet:startDate>10/22/2013 13:00:00</meet:startDate>
+                <meet:duration>60</meet:duration>
+                <meet:listStatus>UNLISTED</meet:listStatus>
+                <meet:hostJoined>false</meet:hostJoined>
+                <meet:participantsJoined>false</meet:participantsJoined>
+                <meet:telePresence>false</meet:telePresence>
+            </meet:meeting>
+            <meet:matchingRecords>
+                <serv:total>22</serv:total>
+                <serv:returned>22</serv:returned>
+                <serv:startFrom>1</serv:startFrom>
+            </meet:matchingRecords>
+        </serv:bodyContent>
+    </serv:body>
+</serv:message>

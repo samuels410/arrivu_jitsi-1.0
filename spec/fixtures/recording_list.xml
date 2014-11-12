@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serv:message xmlns:serv="http://www.webex.com/schemas/2002/06/service"
+              xmlns:com="http://www.webex.com/schemas/2002/06/common"
+              xmlns:ep="http://www.webex.com/schemas/2002/06/service/ep"
+              xmlns:meet="http://www.webex.com/schemas/2002/06/service/meeting">
+    <serv:header>
+        <serv:response>
+            <serv:result>SUCCESS</serv:result>
+            <serv:gsbStatus>PRIMARY</serv:gsbStatus>
+        </serv:response>
+    </serv:header>
+    <serv:body>
+        <serv:bodyContent xsi:type="ep:lstRecordingResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <ep:matchingRecords>
+                <serv:total>2</serv:total>
+                <serv:returned>2</serv:returned>
+                <serv:startFrom>1</serv:startFrom>
+            </ep:matchingRecords>
+            <ep:recording>
+                <ep:recordingID>38367042</ep:recordingID>
+                <ep:hostWebExID>oxana</ep:hostWebExID>
+                <ep:name>Sample Conference Cisco-20131021 1923-1</ep:name>
+                <ep:createTime>10/21/2013 12:23:21</ep:createTime>
+                <ep:timeZoneID>4</ep:timeZoneID>
+                <ep:size>0.006234169</ep:size>
+                <ep:streamURL>https://instructure.webex.com/instructure/lsr.php?AT=pb&amp;rID=38367042&amp;rKey=d8cc3928a6d73f33</ep:streamURL>
+                <ep:fileURL>https://instructure.webex.com/instructure/lsr.php?AT=dw&amp;rID=38367042&amp;rKey=dbe1588745c1530f</ep:fileURL>
+                <ep:sessionKey>803157789</ep:sessionKey>
+                <ep:trackingCode/>
+                <ep:recordingType>0</ep:recordingType>
+                <ep:duration>33</ep:duration>
+                <ep:format>ARF</ep:format>
+                <ep:serviceType>MeetingCenter</ep:serviceType>
+                <ep:passwordReq>false</ep:passwordReq>
+                <ep:confID>1406668295</ep:confID>
+            </ep:recording>
+            <ep:recording>
+                <ep:recordingID>38367052</ep:recordingID>
+                <ep:hostWebExID>oxana</ep:hostWebExID>
+                <ep:name>Sample Conference Cisco-20131021 1924-2</ep:name>
+                <ep:createTime>10/21/2013 12:24:15</ep:createTime>
+                <ep:timeZoneID>4</ep:timeZoneID>
+                <ep:size>0.4796915</ep:size>
+                <ep:streamURL>https://instructure.webex.com/instructure/lsr.php?AT=pb&amp;rID=38367052&amp;rKey=b4273e27e64e9bd2</ep:streamURL>
+                <ep:fileURL>https://instructure.webex.com/instructure/lsr.php?AT=dw&amp;rID=38367052&amp;rKey=85e5a10a7bbd545f</ep:fileURL>
+                <ep:sessionKey>803157789</ep:sessionKey>
+                <ep:trackingCode/>
+                <ep:recordingType>0</ep:recordingType>
+                <ep:duration>20</ep:duration>
+                <ep:format>ARF</ep:format>
+                <ep:serviceType>MeetingCenter</ep:serviceType>
+                <ep:passwordReq>false</ep:passwordReq>
+                <ep:confID>1406668295</ep:confID>
+            </ep:recording>
+        </serv:bodyContent>
+    </serv:body>
+</serv:message>
