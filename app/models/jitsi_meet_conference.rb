@@ -61,7 +61,7 @@ class JitsiMeetConference < WebConference
     return true
   end
 
-  def join_url(user, type = :user)
+  def join_url(user, context = :user)
     generate_request(conference_key)
   end
 
